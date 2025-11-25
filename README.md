@@ -36,6 +36,8 @@ Built a **K-Nearest Neighbors regression model** to predict California housing p
 - **Model Evaluation:** Measured performance using R², Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 - **Model Persistence:** Saved trained pipeline with `pickle` for future use.
 
+---
+
 ## Outputs / Visualizations
 - Preprocessing pipeline summary and hyperparameter tuning results
 - Model evaluation metrics: R², MSE, RMSE
